@@ -75,7 +75,7 @@ const Raids = {
 	Ra: "6081501",
 	Bennu: "6075001",
 	Tefnut: "6081401",
-	Mugen: "6081001",
+	Mugen: "6082101",
 	Siegfried: "6083801",
 	SUBHL: "SUBHL",
 	LuciHL: "6053610",
