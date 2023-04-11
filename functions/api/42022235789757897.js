@@ -327,5 +327,5 @@ export const onRequestGet = () => {
 	// res.setHeader('Access-Control-Allow-Origin', '*');
 	// res.send(resData);
 
-	return new Response(resData);
+	return new Response(JSON.stringify(resData));
 }
